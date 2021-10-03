@@ -1,0 +1,28 @@
+[{
+		"id": 1,
+		"tag": "Red Wine",
+		"title": "Pinot Griogio Primus",
+		"price": "1610",
+		"img": "./assets/images/category1.png",
+	},
+	{
+		"id": 2,
+		"tag": "White Wine",
+		"title": "L'Atelier du Sud",
+		"price": "640",
+		"img": "./assets/images/category2.png",
+	},
+	{
+		"id": 3,
+		"tag": "Rosé",
+		"title": "Tomero Malbec Valentino",
+		"price": "2630",
+		"img": "./assets/images/category3.png",
+	},
+	{
+		"id": 4,
+		"tag": "Sparkling",
+		"title": "Frontier Justice 3L",
+		"price": "640",
+		"img": "./assets/images/category4.png",
+	}]
